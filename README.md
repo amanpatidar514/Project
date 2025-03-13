@@ -1,2 +1,2 @@
 # Projects
-JavaScript and React Projects.
+HTML , CSS , JavaScript and React Projects.
